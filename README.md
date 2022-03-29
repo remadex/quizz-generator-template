@@ -1,7 +1,7 @@
 # Installation
 
 ```bash
-  npx degit https://github.com/TRIPTYK-ACADEMY/tpk-tailwind-base.git .
+  npx degit https://github.com/remadex/quizz-generator-template.git .
 ```
 
 ```bash
